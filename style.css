@@ -34,8 +34,9 @@ body{
 .profile{
     width: 50%;
     margin: 20px;
-    filter:drop-shadow(10px 10px 70px --white)
+    filter:drop-shadow(10px 10px 70px white)
 }
+
 .aboutme{
     min-height:600px ;
 }
